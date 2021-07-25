@@ -64,6 +64,11 @@ color: #FFFFFF;
 .menu-bar{
     display: flex;
     margin-right: 150px;
+    flex-direction: row;
+    
+}
+.profile{
+    position: absolute;
 }
 
 
