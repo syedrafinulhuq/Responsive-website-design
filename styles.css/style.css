@@ -61,7 +61,10 @@ line-height: 36px;
 color: #FFFFFF;
 }
 
-
+.menu-bar{
+    display: flex;
+    margin-right: 150px;
+}
 
 
 
